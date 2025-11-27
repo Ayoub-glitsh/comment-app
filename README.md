@@ -41,7 +41,7 @@ src/
 ## Installation
 
 1.  Cloner le projet :
-2.  git clone <URL\_DE\_VOTRE\_REPO>
+2.  git clone https://github.com/Ayoub-glitsh/comment-app.git
 3.  cd comment-app
 4.  Installer les dépendances :
 5.  npm install
