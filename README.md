@@ -2,6 +2,10 @@
 
 # Gestion des commentaires - React + Redux Toolkit
 
+<p align="center">
+  <img src="assets/gifs/celebration.gif" width="300" />
+</p>
+
 ## Description
 
 Ce projet est une petite application React utilisant **Redux Toolkit** pour gérer des commentaires en temps réel.
