@@ -3,7 +3,7 @@
 # Gestion des commentaires - React + Redux Toolkit
 
 <p align="center">
-  <img src="assets/gifs/celebration.gif" width="300" />
+  <img src="assets/img/comment.jpeg" width="300" />
 </p>
 
 ## Description
